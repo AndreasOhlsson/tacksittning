@@ -27,7 +27,7 @@ gem 'bootstrap-sass'
 gem 'devise'
 gem 'high_voltage'
 gem 'jquery-rails'
-gem 'pg'
+gem 'pg', '~> 0.21'
 group :development do
   gem 'better_errors'
   gem 'rails_layout'
